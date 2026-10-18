@@ -1,6 +1,6 @@
 # CSE489_AndrioedApp_vangtiChai
 
-# VangtiChai (ভাঙতি চাই)
+# VangtiChai 
 
 An Android application built with Java and Android Studio that calculates the optimal breakdown of Bangladeshi Taka (BDT) currency notes and coins for any given monetary amount.
 
