@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Sizes -->
+    <dimen name="text_size_header">22sp</dimen>
+    <dimen name="text_size_list">16sp</dimen>
+    <dimen name="text_size_button">18sp</dimen>
+
+    <!-- Margins & Padding -->
+    <dimen name="padding_main">12dp</dimen>
+    <dimen name="margin_top_content">20dp</dimen>
+    <dimen name="margin_text_label">12dp</dimen>
+    <dimen name="grid_spacing">4dp</dimen>
+</resources>
