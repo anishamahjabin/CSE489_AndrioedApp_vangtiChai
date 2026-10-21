@@ -1,0 +1,79 @@
+﻿============================================================
+           AI USAGE DECLARATION
+============================================================
+
+
+Name:Anisha Mahjabin Chowdhury
+Student ID:24101651
+Assignment:01
+Date: 18/10/2026
+
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[✅] ChatGPT
+[ ] GitHub Copilot
+[✅] Google Gemini
+[✅] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[ ✅] Learning/understanding concepts
+[ ✅] Debugging my code
+[ ] Generating code snippets
+[ ] Writing text content
+[✅ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+AI was used for debugging UI Layout issues, optimizing XML Layouts for screen responsiveness, writing documentation(Readme.md) and preparing for the assignment viva.
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+
+File: activity_main.xml  Section:Layout refactoring 
+File: Readme.md          Section: Project documentation 
+
+
+
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+
+Signature:   
+Date: ______21/10/26_____________________
+
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
